@@ -1,0 +1,16 @@
+C:\Users\stass\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\stass\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\stass\source\repos\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\MainWindow.g.cs
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\App.g.cs
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts_MarkupCompile.cache
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts_MarkupCompile.lref
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\MainWindow.baml
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.g.resources
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\stass\source\repos\Contacts\Contacts\obj\Debug\Contacts.pdb
